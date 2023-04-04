@@ -1,0 +1,8 @@
+node_modules
+.vscode
+.idea
+dist
+/public
+src/typings/auto-imports.d.ts
+src/typings/components.d.ts
+src/utils/rtc
